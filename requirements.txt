@@ -7,3 +7,4 @@ django-widget-tweaks==1.4.8
 Markdown~=3.3.4
 python-decouple==3.4
 reverse==0.1.0
+waitress==2.0.0
